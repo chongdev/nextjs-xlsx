@@ -17,7 +17,7 @@ const ExportPage = (props: Props) => {
 
     const borderStyles: any = {
         right: {
-            style: "dotted",
+            style: "dotted", // thin, medium, thick, dashed, dotted, double, hair, mediumDashed, dashDot, mediumDashDot, dashDotDot, mediumDashDotDot, slantDashDot
             color: { rgb: "00000000" }
         },
         left: {
